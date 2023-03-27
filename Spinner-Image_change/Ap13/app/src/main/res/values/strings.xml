@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ap13</string>
+    <string-array name="spinner_img">
+        <item>android.png</item>
+        <item>developer.png</item>
+        <item>reminder.png</item>
+    </string-array>
+</resources>
